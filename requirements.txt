@@ -3,3 +3,4 @@ agno
 Pillow==10.0.0
 duckduckgo-search>=6.4.1
 google-generativeai
+openai
